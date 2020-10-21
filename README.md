@@ -1,4 +1,4 @@
-<h1 align="center">Made In Cameroon.</h1>
+<h1 align="center">Made In Cameroon</h1>
 <p align="center">A curated list a awesome tools and projects built by Cameroonian developers.</p>
 
 <p align="center">
@@ -24,10 +24,16 @@
 ## <a name="Q"> </a>Q
 ## <a name="R"> </a>R
 ## <a name="S"> </a>S
+
+* [Sili Compressor](https://github.com/Tourenathan-G5organisation/SiliCompressor) - A powerful, flexible and easy to use Video and Image compression library for Android.. **By [@ToureNathan](https://twitter.com/tourenathan)**
+
 ## <a name="T"> </a>T
 ## <a name="U"> </a>U
 ## <a name="V"> </a>V
 ## <a name="W"> </a>W
 ## <a name="X"> </a>X
 ## <a name="Y"> </a>Y
+
+* [Youtube-Dl](https://github.com/ch3ck/youtube-dl) - A simple youtube video downloader that can download multiple videos concurrently. Downloaded videos could be converted to flv or mp3 formats. **By [@ch3ck_](https://twitter.com/ch3ck_)**
+  
 ## <a name="Z"> </a>Z
