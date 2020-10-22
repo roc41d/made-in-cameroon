@@ -19,7 +19,7 @@
 ## <a name="L"> </a>L
 
 * [Laravel Command](https://github.com/mckenziearts/laravel-command) - A Laravel package to provide artisan new commands. **By [@MonneyArthur](https://twitter.com/monneyarthur)**
-* [Laravel Notif](https://github.com/mckenziearts/laravel-notify) - Laravel Notify is a package that lets you add custom notifications to your project. A diverse range of notification design is available. **By [@MonneyArthur](https://twitter.com/monneyarthur)**
+* [Laravel Notify](https://github.com/mckenziearts/laravel-notify) - Laravel Notify is a package that lets you add custom notifications to your project. A diverse range of notification design is available. **By [@MonneyArthur](https://twitter.com/monneyarthur)**
 * [Laravel Oauth](https://github.com/mckenziearts/laravel-oauth) - Social OAuth authentication for Laravel 5 & 6. Drivers: Facebook, Twitter, Google, LinkedIn, Github, Bitbucket. **By [@MonneyArthur](hhttps://twitter.com/monneyarthur)**
 * [Laravel Shopper](https://github.com/shopperlabs/shopper) - An eCommerce administration built with Laravel 5 for creating online shop. **By [@MonneyArthur](https://twitter.com/monneyarthur)**
 
