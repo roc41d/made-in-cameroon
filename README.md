@@ -17,6 +17,12 @@
 ## <a name="J"> </a>J
 ## <a name="K"> </a>K
 ## <a name="L"> </a>L
+
+* [Laravel Command](https://github.com/mckenziearts/laravel-command) - A Laravel package to provide artisan new commands. **By [@MonneyArthur](https://twitter.com/monneyarthur)**
+* [Laravel Notif](https://github.com/mckenziearts/laravel-notify) - Laravel Notify is a package that lets you add custom notifications to your project. A diverse range of notification design is available. **By [@MonneyArthur](https://twitter.com/monneyarthur)**
+* [Laravel Oauth](https://github.com/mckenziearts/laravel-oauth) - Social OAuth authentication for Laravel 5 & 6. Drivers: Facebook, Twitter, Google, LinkedIn, Github, Bitbucket. **By [@MonneyArthur](hhttps://twitter.com/monneyarthur)**
+* [Laravel Shopper](https://github.com/shopperlabs/shopper) - An eCommerce administration built with Laravel 5 for creating online shop. **By [@MonneyArthur](https://twitter.com/monneyarthur)**
+
 ## <a name="M"> </a>M
 ## <a name="N"> </a>N
 ## <a name="O"> </a>O
@@ -25,7 +31,7 @@
 ## <a name="R"> </a>R
 ## <a name="S"> </a>S
 
-* [Sili Compressor](https://github.com/Tourenathan-G5organisation/SiliCompressor) - A powerful, flexible and easy to use Video and Image compression library for Android.. **By [@ToureNathan](https://twitter.com/tourenathan)**
+* [Sili Compressor](https://github.com/Tourenathan-G5organisation/SiliCompressor) - A powerful, flexible and easy to use Video and Image compression library for Android. **By [@ToureNathan](https://twitter.com/tourenathan)**
 
 ## <a name="T"> </a>T
 ## <a name="U"> </a>U
