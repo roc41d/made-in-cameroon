@@ -30,6 +30,8 @@
 
 * [FlashIt](https://github.com/Sanix-Darker/FlashIt) - Search for cheapest product, get notify (Search engine + Job + Telegram ChatBot). **By [@anixdarker](https://twitter.com/sanixdarker)**
 
+* [Free Chat](https://github.com/DamienDoumer/freechat) - Application demonstrating how to build a chat app UI with Xamarin Forms. **By [@Damien_Doumer](https://twitter.com/Damien_Doumer_)**
+
 ## <a name="G"> </a>G
 
 * [GENESIS](https://github.com/Sanix-Darker/GENESIS) - Generate multiple combinaisons of passwords from key names. **By [@anixdarker](https://twitter.com/sanixdarker)**
