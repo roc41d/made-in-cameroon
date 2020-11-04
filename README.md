@@ -7,49 +7,49 @@
 
 ## <a name="A"> </a>A
 
-* [AntiDDOS-system](https://github.com/Sanix-Darker/AntiDDOS-system) - Protect your web app from DDOS attack or the Dead Ping + CAPTCHA VERIFICATION in one line. **By [@anixdarker](https://twitter.com/sanixdarker)**
+* [AntiDDOS-system](https://github.com/Sanix-Darker/AntiDDOS-system) - Protect your web app from DDOS attack or the Dead Ping + CAPTCHA VERIFICATION in one line. **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
 ## <a name="B"> </a>B
 
-* [Brute-Force-Login](https://github.com/Sanix-Darker/Brute-Force-Login) - Proof -Of-Concept Brute Force Login on a web-site with a good dictionary of words. **By [@anixdarker](https://twitter.com/sanixdarker)**
+* [Brute-Force-Login](https://github.com/Sanix-Darker/Brute-Force-Login) - Proof -Of-Concept Brute Force Login on a web-site with a good dictionary of words. **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
 ## <a name="C"> </a>C
 
-* [Cyclop](https://github.com/Sanix-Darker/cyclop) - Real-time output of your program (ONLY IN SHELL, no program, no Lib, no Package required to use it). **By [@anixdarker](https://twitter.com/sanixdarker)**
+* [Cyclop](https://github.com/Sanix-Darker/cyclop) - Real-time output of your program (ONLY IN SHELL, no program, no Lib, no Package required to use it). **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
 ## <a name="D"> </a>D
 ## <a name="E"> </a>E
 
-* [Embed](https://github.com/Sanix-Darker/Embed) - Watch videos or browse externals links everywhere on your browser!. **By [@anixdarker](https://twitter.com/sanixdarker)**
+* [Embed](https://github.com/Sanix-Darker/Embed) - Watch videos or browse externals links everywhere on your browser!. **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
-* [ENEO-BILL](https://github.com/Sanix-Darker/eneo_bill) - A Bot able to fetch your bill on eneo webSite and pay it for you using Kraken. **By [@anixdarker](https://twitter.com/sanixdarker)**
+* [ENEO-BILL](https://github.com/Sanix-Darker/eneo_bill) - A Bot able to fetch your bill on eneo webSite and pay it for you using Kraken. **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
 ## <a name="F"> </a>F
 
-* [falla](https://github.com/Sanix-Darker/falla) - A search-engine-cli-scraper for more than 15 search engines, including Google. duckduckgo, Bing, Ask, etc... **By [@anixdarker](https://twitter.com/sanixdarker)**
+* [falla](https://github.com/Sanix-Darker/falla) - A search-engine-cli-scraper for more than 15 search engines, including Google. duckduckgo, Bing, Ask, etc... **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
-* [FlashIt](https://github.com/Sanix-Darker/FlashIt) - Search for cheapest product, get notify (Search engine + Job + Telegram ChatBot). **By [@anixdarker](https://twitter.com/sanixdarker)**
+* [FlashIt](https://github.com/Sanix-Darker/FlashIt) - Search for cheapest product, get notify (Search engine + Job + Telegram ChatBot). **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
 * [Free Chat](https://github.com/DamienDoumer/freechat) - Application demonstrating how to build a chat app UI with Xamarin Forms. **By [@Damien_Doumer](https://twitter.com/Damien_Doumer_)**
 
 ## <a name="G"> </a>G
 
-* [GENESIS](https://github.com/Sanix-Darker/GENESIS) - Generate multiple combinaisons of passwords from key names. **By [@anixdarker](https://twitter.com/sanixdarker)**
+* [GENESIS](https://github.com/Sanix-Darker/GENESIS) - Generate multiple combinaisons of passwords from key names. **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
 ## <a name="H"> </a>H
 ## <a name="I"> </a>I
 ## <a name="J"> </a>J
 ## <a name="K"> </a>K
 
-* [KRAKEN](https://github.com/Sanix-Darker/kraken) - USSD-SMS-Internet Bridge. **By [@anixdarker](https://twitter.com/sanixdarker)**
+* [KRAKEN](https://github.com/Sanix-Darker/kraken) - USSD-SMS-Internet Bridge. **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
-* [Kripta](https://github.com/Sanix-Darker/kripta) - A CrossLanguage Encryption Module to encrypt information/data/files (Asymmetric and Symmetric encryption handled). **By [@anixdarker](https://twitter.com/sanixdarker)**
+* [Kripta](https://github.com/Sanix-Darker/kripta) - A CrossLanguage Encryption Module to encrypt information/data/files (Asymmetric and Symmetric encryption handled). **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
 ## <a name="L"> </a>L
 
 * [Laravel Command](https://github.com/mckenziearts/laravel-command) - A Laravel package to provide artisan new commands. **By [@MonneyArthur](https://twitter.com/monneyarthur)**
 
-* [Embed](https://github.com/Sanix-Darker/Lang-app) - Add a multi lang configuration to your WEB APP 'from scratch' [ANY FRAMEWORK, ANY PLUGIN, ANY API]. **By [@anixdarker](https://twitter.com/sanixdarker)**
+* [Embed](https://github.com/Sanix-Darker/Lang-app) - Add a multi lang configuration to your WEB APP 'from scratch' [ANY FRAMEWORK, ANY PLUGIN, ANY API]. **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
 
 * [Laravel Notify](https://github.com/mckenziearts/laravel-notify) - Laravel Notify is a package that lets you add custom notifications to your project. A diverse range of notification design is available. **By [@MonneyArthur](https://twitter.com/monneyarthur)**
@@ -64,7 +64,7 @@
 ## <a name="N"> </a>N
 ## <a name="O"> </a>O
 
-* [ogramcloud-cli-client](https://github.com/Sanix-Darker/ogramcloud-cli-client) - This is CLI interface for the free UNLIMITED STORAGE of OgramCloud service. **By [@anixdarker](https://twitter.com/sanixdarker)**
+* [ogramcloud-cli-client](https://github.com/Sanix-Darker/ogramcloud-cli-client) - This is CLI interface for the free UNLIMITED STORAGE of OgramCloud service. **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
 ## <a name="P"> </a>P
 
@@ -80,7 +80,7 @@
 
 ## <a name="T"> </a>T
 
-* [Tic-Tac](https://github.com/Sanix-Darker/Tic-Tac) - Client not paid ? This is the solution of your problem. **By [@anixdarker](https://twitter.com/sanixdarker)**
+* [Tic-Tac](https://github.com/Sanix-Darker/Tic-Tac) - Client not paid ? This is the solution of your problem. **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
 ## <a name="U"> </a>U
 ## <a name="V"> </a>V
@@ -92,4 +92,4 @@
   
 ## <a name="Z"> </a>Z
 
-* [Zolo](https://github.com/Sanix-Darker/zolo) - A simple ReacJs-Search-Engine for Open-sources projects on Github, GitLab and Bitbucket in one place. **By [@anixdarker](https://twitter.com/sanixdarker)**
+* [Zolo](https://github.com/Sanix-Darker/zolo) - A simple ReacJs-Search-Engine for Open-sources projects on Github, GitLab and Bitbucket in one place. **By [@sanixdarker](https://twitter.com/sanixdarker)**
