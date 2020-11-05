@@ -41,6 +41,8 @@
 ## <a name="J"> </a>J
 ## <a name="K"> </a>K
 
+* [KeyLy](https://github.com/Sanix-Darker/KeyLy) - A powerfull and awesome Keylogger(Your keyboard and your mouse) just to learn! :-P **By [@sanixdarker](https://twitter.com/sanixdarker)**
+
 * [KRAKEN](https://github.com/Sanix-Darker/kraken) - USSD-SMS-Internet Bridge. **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
 * [Kripta](https://github.com/Sanix-Darker/kripta) - A CrossLanguage Encryption Module to encrypt information/data/files (Asymmetric and Symmetric encryption handled). **By [@sanixdarker](https://twitter.com/sanixdarker)**
@@ -49,7 +51,7 @@
 
 * [Laravel Command](https://github.com/mckenziearts/laravel-command) - A Laravel package to provide artisan new commands. **By [@MonneyArthur](https://twitter.com/monneyarthur)**
 
-* [Embed](https://github.com/Sanix-Darker/Lang-app) - Add a multi lang configuration to your WEB APP 'from scratch' [ANY FRAMEWORK, ANY PLUGIN, ANY API]. **By [@sanixdarker](https://twitter.com/sanixdarker)**
+* [Lang-app](https://github.com/Sanix-Darker/Lang-app) - Add a multi lang configuration to your WEB APP 'from scratch' [ANY FRAMEWORK, ANY PLUGIN, ANY API]. **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
 
 * [Laravel Notify](https://github.com/mckenziearts/laravel-notify) - Laravel Notify is a package that lets you add custom notifications to your project. A diverse range of notification design is available. **By [@MonneyArthur](https://twitter.com/monneyarthur)**
