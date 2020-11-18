@@ -1,5 +1,5 @@
 <h1>Made In Cameroon</h1>
-A curated list a awesome tools and projects built by Cameroonian developers.
+<p>A curated list a awesome tools and projects built by Cameroonian developers.</p>
 
 You can help by sending Pull Requests to add more tools/projects. Please make sure to read the [contribution guidelines](CONTRIBUTING.md).
 
