@@ -17,6 +17,8 @@ If you're not inclined to make PRs you can tweet me at [@rocardho](https://twitt
 
 * [Brute-Force-Login](https://github.com/Sanix-Darker/Brute-Force-Login) - Proof -Of-Concept Brute Force Login on a web-site with a good dictionary of words. **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
+* [Bond](https://github.com/FotieMConstant/bond) - Send your loved ones a vibe with a lovely sound, so they know you miss them. Anytime you want to, anywhere they are. **By [@fotiecodes](https://twitter.com/fotie_codes)**
+
 ## <a name="C"> </a>C
 
 * [Cyclop](https://github.com/Sanix-Darker/cyclop) - Real-time output of your program (ONLY IN SHELL, no program, no Lib, no Package required to use it). **By [@sanixdarker](https://twitter.com/sanixdarker)**
@@ -39,6 +41,8 @@ If you're not inclined to make PRs you can tweet me at [@rocardho](https://twitt
 ## <a name="G"> </a>G
 
 * [GENESIS](https://github.com/Sanix-Darker/GENESIS) - Generate multiple combinaisons of passwords from key names. **By [@sanixdarker](https://twitter.com/sanixdarker)**
+
+* [geek-quote-api](https://github.com/FotieMConstant/geek-quote-api) - An API for retrieving random geeky/programming-related quotes for use in all sorts of applications. **By [@fotiecodes](https://twitter.com/fotie_codes)**
 
 ## <a name="H"> </a>H
 ## <a name="I"> </a>I
@@ -65,6 +69,8 @@ If you're not inclined to make PRs you can tweet me at [@rocardho](https://twitt
   
 
 * [Laravel Shopper](https://github.com/shopperlabs/shopper) - An eCommerce administration built with Laravel 5 for creating online shop. **By [@MonneyArthur](https://twitter.com/monneyarthur)**
+
+* [LAN-Tube](https://github.com/FotieMConstant/LAN-Tube) - An open-source Youtube-like web app for your home network where you can stream your videos on you LAN, share files and have plenty of fun. **By [@fotiecodes](https://twitter.com/fotie_codes)**
 
 ## <a name="M"> </a>M
 ## <a name="N"> </a>N
