@@ -12,6 +12,7 @@ If you're not inclined to make PRs you can tweet me at [@rocardho](https://twitt
 ## <a name="A"> </a>A
 
 * [AntiDDOS-system](https://github.com/Sanix-Darker/AntiDDOS-system) - Protect your web app from DDOS attack or the Dead Ping + CAPTCHA VERIFICATION in one line. **By [@sanixdarker](https://twitter.com/sanixdarker)**
+* [Atbswp](https://github.com/rmpr/atbswp) - A minimalist macro recorder that allows you to record and playback your mouse and keyboard actions. **By [@rmpr](https://twitter.com/mairo_rufus)**
 
 ## <a name="B"> </a>B
 
