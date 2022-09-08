@@ -46,6 +46,9 @@ If you're not inclined to make PRs you can tweet me at [@rocardho](https://twitt
 * [geek-quote-api](https://github.com/FotieMConstant/geek-quote-api) - An API for retrieving random geeky/programming-related quotes for use in all sorts of applications. **By [@fotiecodes](https://twitter.com/fotie_codes)**
 
 ## <a name="H"> </a>H
+
+* [Hepilo](https://github.com/NdoleStudio/hepilo) - Easily create and organize multiple shopping lists all in one place.
+ 
 ## <a name="I"> </a>I
 ## <a name="J"> </a>J
 ## <a name="K"> </a>K
