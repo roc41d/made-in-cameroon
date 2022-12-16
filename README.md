@@ -27,8 +27,7 @@ If you're not inclined to make PRs you can tweet me at [@rocardho](https://twitt
 ## <a name="D"> </a>D
 ## <a name="E"> </a>E
 
-* [Electchain](https://github.com/baimamboukar/voting_system_app) - Blockchain based, secured and easy-to-use voting system mobile app! **By [@baimamboukar](https://linkedin.com/in/baimamboukar)** <br>
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baimamboukar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baimamboukar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@baimamboukar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15155605) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/baimamjj)
+* [Electchain](https://github.com/baimamboukar/voting_system_app) - Blockchain based, secured and easy-to-use voting system mobile app! **By [@baimamboukar](https://twitter.com/in/baimamjj)**
 
 * [Embed](https://github.com/Sanix-Darker/Embed) - Watch videos or browse externals links everywhere on your browser!. **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
